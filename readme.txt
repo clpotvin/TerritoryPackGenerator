@@ -1,6 +1,6 @@
-|-------------------------------------------------------------------------------------------------------------------------------|
-   		   Territory Pack Generator Instructions
-|-------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------|
+        Territory Pack Generator Instructions
+|---------------------------------------------------|
 
 1. Go into BaseTextures and replace any textures you might want to replace
      - Note: All textures (except HQ) must be 32x PNG files with a Bit Depth of 32.
@@ -23,9 +23,9 @@ Please report any bugs or issues you encounter to me through Discord.
 Discord Tag: Cam 😴#1318
 
 
-|-------------------------------------------------------------------------------------------------------------------------------|
-   		       How To Change Image Bit Depth
-|-------------------------------------------------------------------------------------------------------------------------------|
+|---------------------------------------------------|
+            How To Change Image Bit Depth
+|---------------------------------------------------|
 
 There are 2 ways to change Bit Depth, one you can do if you have GIMP, otherwise you can 
 use an online image converter. 
