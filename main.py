@@ -6,8 +6,6 @@ from PIL import Image
 from PIL import ImageDraw
 from PIL import ImageFont
 
-#dfsdjfgdsjfldsjgfls
-
 # GLOBAL VARIABLES
 base_dir = os.getcwd()  # get current directory for paths
 base_dir = base_dir.replace('\\', '/')
