@@ -4,7 +4,7 @@ This is a Python script that automatically generates a resource pack for territo
 in the territory management menu in the Wynncraft MMORPG server.
 
 Please report any bugs or issues you encounter to me through Discord.
-Discord Tag: Cam 😴#1318
+Discord Tag: cam_zzz
 
 ## Instructions
 
