@@ -1,4 +1,4 @@
-# Territory Pack Generator v1.0
+# Territory Resource Pack Generator v1.0
 
 This is a Python script that automatically generates a resource pack for territories
 in the territory management menu in the Wynncraft MMORPG server.
